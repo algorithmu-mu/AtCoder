@@ -1,4 +1,5 @@
-*/
+
+/*
 問題文
 http://abc035.contest.atcoder.jp/tasks/abc035_c
 黒の面に0、白の面に1が書かれた N 個のオセロの駒が、どの駒も黒の面が上を向くように一列に並べられています。その後、ある区間にある駒を全て裏返すという操作が Q 回だけ行なわれました。 具体的には i 回目の操作においては、左から li 番目の駒から ri 番目の駒までの駒全てが裏返されました。
@@ -8,7 +9,7 @@ http://abc035.contest.atcoder.jp/tasks/abc035_c
 
 解説
 http://www.slideshare.net/chokudai/abc035
-/*
+*/
 
 import java.util.Scanner;
 
