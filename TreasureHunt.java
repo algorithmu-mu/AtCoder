@@ -1,10 +1,12 @@
-*/
+/*
 問題: http://abc035.contest.atcoder.jp/tasks/abc035_d
 解説: http://www.slideshare.net/chokudai/abc035
 
 ポイント
 ダイクストラ法を用いた最短経路探索
-/*
+*/
+
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
