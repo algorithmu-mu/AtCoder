@@ -1,5 +1,5 @@
 
-```
+'''
 import java.util.Scanner;
 import java.util.LinkedList;
 
@@ -60,4 +60,4 @@ class Faction {
 		System.out.println(ans);
 	}
 }
-```
+'''
